@@ -1,0 +1,574 @@
+[
+  {
+    "year": 2022,
+    "name": "FIFA World Cup Qatar 2022",
+    "hostCountry": {
+      "name": "Qatar",
+      "code": "QAT",
+      "continent": "Asia"
+    },
+    "winner": {
+      "name": "Argentina",
+      "code": "ARG"
+    },
+    "runnerUp": {
+      "name": "France",
+      "code": "FRA"
+    },
+    "finalScore": "3-3 (4-2 pen)",
+    "teams": 32,
+    "matches": 64,
+    "goals": 172,
+    "topScorer": {
+      "name": "Kylian Mbappé",
+      "country": "France",
+      "goals": 8
+    }
+  },
+  {
+    "year": 2018,
+    "name": "FIFA World Cup Russia 2018",
+    "hostCountry": {
+      "name": "Russia",
+      "code": "RUS",
+      "continent": "Europe"
+    },
+    "winner": {
+      "name": "France",
+      "code": "FRA"
+    },
+    "runnerUp": {
+      "name": "Croatia",
+      "code": "CRO"
+    },
+    "finalScore": "4-2",
+    "teams": 32,
+    "matches": 64,
+    "goals": 169,
+    "topScorer": {
+      "name": "Harry Kane",
+      "country": "England",
+      "goals": 6
+    }
+  },
+  {
+    "year": 2014,
+    "name": "FIFA World Cup Brazil 2014",
+    "hostCountry": {
+      "name": "Brazil",
+      "code": "BRA",
+      "continent": "South America"
+    },
+    "winner": {
+      "name": "Germany",
+      "code": "GER"
+    },
+    "runnerUp": {
+      "name": "Argentina",
+      "code": "ARG"
+    },
+    "finalScore": "1-0",
+    "teams": 32,
+    "matches": 64,
+    "goals": 171,
+    "topScorer": {
+      "name": "James Rodríguez",
+      "country": "Colombia",
+      "goals": 6
+    }
+  },
+  {
+    "year": 2010,
+    "name": "FIFA World Cup South Africa 2010",
+    "hostCountry": {
+      "name": "South Africa",
+      "code": "RSA",
+      "continent": "Africa"
+    },
+    "winner": {
+      "name": "Spain",
+      "code": "ESP"
+    },
+    "runnerUp": {
+      "name": "Netherlands",
+      "code": "NED"
+    },
+    "finalScore": "1-0",
+    "teams": 32,
+    "matches": 64,
+    "goals": 145,
+    "topScorer": {
+      "name": "Thomas Müller",
+      "country": "Germany",
+      "goals": 5
+    }
+  },
+  {
+    "year": 2006,
+    "name": "FIFA World Cup Germany 2006",
+    "hostCountry": {
+      "name": "Germany",
+      "code": "GER",
+      "continent": "Europe"
+    },
+    "winner": {
+      "name": "Italy",
+      "code": "ITA"
+    },
+    "runnerUp": {
+      "name": "France",
+      "code": "FRA"
+    },
+    "finalScore": "1-1 (5-3 pen)",
+    "teams": 32,
+    "matches": 64,
+    "goals": 147,
+    "topScorer": {
+      "name": "Miroslav Klose",
+      "country": "Germany",
+      "goals": 5
+    }
+  },
+  {
+    "year": 2002,
+    "name": "FIFA World Cup Korea/Japan 2002",
+    "hostCountry": {
+      "name": "South Korea & Japan",
+      "code": "KOR",
+      "continent": "Asia"
+    },
+    "winner": {
+      "name": "Brazil",
+      "code": "BRA"
+    },
+    "runnerUp": {
+      "name": "Germany",
+      "code": "GER"
+    },
+    "finalScore": "2-0",
+    "teams": 32,
+    "matches": 64,
+    "goals": 161,
+    "topScorer": {
+      "name": "Ronaldo",
+      "country": "Brazil",
+      "goals": 8
+    }
+  },
+  {
+    "year": 1998,
+    "name": "FIFA World Cup France 1998",
+    "hostCountry": {
+      "name": "France",
+      "code": "FRA",
+      "continent": "Europe"
+    },
+    "winner": {
+      "name": "France",
+      "code": "FRA"
+    },
+    "runnerUp": {
+      "name": "Brazil",
+      "code": "BRA"
+    },
+    "finalScore": "3-0",
+    "teams": 32,
+    "matches": 64,
+    "goals": 171,
+    "topScorer": {
+      "name": "Davor Šuker",
+      "country": "Croatia",
+      "goals": 6
+    }
+  },
+  {
+    "year": 1994,
+    "name": "FIFA World Cup USA 1994",
+    "hostCountry": {
+      "name": "United States",
+      "code": "USA",
+      "continent": "North America"
+    },
+    "winner": {
+      "name": "Brazil",
+      "code": "BRA"
+    },
+    "runnerUp": {
+      "name": "Italy",
+      "code": "ITA"
+    },
+    "finalScore": "0-0 (3-2 pen)",
+    "teams": 24,
+    "matches": 52,
+    "goals": 141,
+    "topScorer": {
+      "name": "Hristo Stoichkov",
+      "country": "Bulgaria",
+      "goals": 6
+    }
+  },
+  {
+    "year": 1990,
+    "name": "FIFA World Cup Italy 1990",
+    "hostCountry": {
+      "name": "Italy",
+      "code": "ITA",
+      "continent": "Europe"
+    },
+    "winner": {
+      "name": "Germany",
+      "code": "GER"
+    },
+    "runnerUp": {
+      "name": "Argentina",
+      "code": "ARG"
+    },
+    "finalScore": "1-0",
+    "teams": 24,
+    "matches": 52,
+    "goals": 115,
+    "topScorer": {
+      "name": "Salvatore Schillaci",
+      "country": "Italy",
+      "goals": 6
+    }
+  },
+  {
+    "year": 1986,
+    "name": "FIFA World Cup Mexico 1986",
+    "hostCountry": {
+      "name": "Mexico",
+      "code": "MEX",
+      "continent": "North America"
+    },
+    "winner": {
+      "name": "Argentina",
+      "code": "ARG"
+    },
+    "runnerUp": {
+      "name": "Germany",
+      "code": "GER"
+    },
+    "finalScore": "3-2",
+    "teams": 24,
+    "matches": 52,
+    "goals": 132,
+    "topScorer": {
+      "name": "Gary Lineker",
+      "country": "England",
+      "goals": 6
+    }
+  },
+  {
+    "year": 1982,
+    "name": "FIFA World Cup Spain 1982",
+    "hostCountry": {
+      "name": "Spain",
+      "code": "ESP",
+      "continent": "Europe"
+    },
+    "winner": {
+      "name": "Italy",
+      "code": "ITA"
+    },
+    "runnerUp": {
+      "name": "Germany",
+      "code": "GER"
+    },
+    "finalScore": "3-1",
+    "teams": 24,
+    "matches": 52,
+    "goals": 146,
+    "topScorer": {
+      "name": "Paolo Rossi",
+      "country": "Italy",
+      "goals": 6
+    }
+  },
+  {
+    "year": 1978,
+    "name": "FIFA World Cup Argentina 1978",
+    "hostCountry": {
+      "name": "Argentina",
+      "code": "ARG",
+      "continent": "South America"
+    },
+    "winner": {
+      "name": "Argentina",
+      "code": "ARG"
+    },
+    "runnerUp": {
+      "name": "Netherlands",
+      "code": "NED"
+    },
+    "finalScore": "3-1",
+    "teams": 16,
+    "matches": 38,
+    "goals": 102,
+    "topScorer": {
+      "name": "Mario Kempes",
+      "country": "Argentina",
+      "goals": 6
+    }
+  },
+  {
+    "year": 1974,
+    "name": "FIFA World Cup Germany 1974",
+    "hostCountry": {
+      "name": "Germany",
+      "code": "GER",
+      "continent": "Europe"
+    },
+    "winner": {
+      "name": "Germany",
+      "code": "GER"
+    },
+    "runnerUp": {
+      "name": "Netherlands",
+      "code": "NED"
+    },
+    "finalScore": "2-1",
+    "teams": 16,
+    "matches": 38,
+    "goals": 97,
+    "topScorer": {
+      "name": "Grzegorz Lato",
+      "country": "Poland",
+      "goals": 7
+    }
+  },
+  {
+    "year": 1970,
+    "name": "FIFA World Cup Mexico 1970",
+    "hostCountry": {
+      "name": "Mexico",
+      "code": "MEX",
+      "continent": "North America"
+    },
+    "winner": {
+      "name": "Brazil",
+      "code": "BRA"
+    },
+    "runnerUp": {
+      "name": "Italy",
+      "code": "ITA"
+    },
+    "finalScore": "4-1",
+    "teams": 16,
+    "matches": 32,
+    "goals": 95,
+    "topScorer": {
+      "name": "Gerd Müller",
+      "country": "Germany",
+      "goals": 10
+    }
+  },
+  {
+    "year": 1966,
+    "name": "FIFA World Cup England 1966",
+    "hostCountry": {
+      "name": "England",
+      "code": "ENG",
+      "continent": "Europe"
+    },
+    "winner": {
+      "name": "England",
+      "code": "ENG"
+    },
+    "runnerUp": {
+      "name": "Germany",
+      "code": "GER"
+    },
+    "finalScore": "4-2",
+    "teams": 16,
+    "matches": 32,
+    "goals": 89,
+    "topScorer": {
+      "name": "Eusébio",
+      "country": "Portugal",
+      "goals": 9
+    }
+  },
+  {
+    "year": 1962,
+    "name": "FIFA World Cup Chile 1962",
+    "hostCountry": {
+      "name": "Chile",
+      "code": "CHI",
+      "continent": "South America"
+    },
+    "winner": {
+      "name": "Brazil",
+      "code": "BRA"
+    },
+    "runnerUp": {
+      "name": "Czechoslovakia",
+      "code": "TCH"
+    },
+    "finalScore": "3-1",
+    "teams": 16,
+    "matches": 32,
+    "goals": 89,
+    "topScorer": {
+      "name": "Garrincha",
+      "country": "Brazil",
+      "goals": 4
+    }
+  },
+  {
+    "year": 1958,
+    "name": "FIFA World Cup Sweden 1958",
+    "hostCountry": {
+      "name": "Sweden",
+      "code": "SWE",
+      "continent": "Europe"
+    },
+    "winner": {
+      "name": "Brazil",
+      "code": "BRA"
+    },
+    "runnerUp": {
+      "name": "Sweden",
+      "code": "SWE"
+    },
+    "finalScore": "5-2",
+    "teams": 16,
+    "matches": 35,
+    "goals": 126,
+    "topScorer": {
+      "name": "Just Fontaine",
+      "country": "France",
+      "goals": 13
+    }
+  },
+  {
+    "year": 1954,
+    "name": "FIFA World Cup Switzerland 1954",
+    "hostCountry": {
+      "name": "Switzerland",
+      "code": "SUI",
+      "continent": "Europe"
+    },
+    "winner": {
+      "name": "Germany",
+      "code": "GER"
+    },
+    "runnerUp": {
+      "name": "Hungary",
+      "code": "HUN"
+    },
+    "finalScore": "3-2",
+    "teams": 16,
+    "matches": 26,
+    "goals": 140,
+    "topScorer": {
+      "name": "Sándor Kocsis",
+      "country": "Hungary",
+      "goals": 11
+    }
+  },
+  {
+    "year": 1950,
+    "name": "FIFA World Cup Brazil 1950",
+    "hostCountry": {
+      "name": "Brazil",
+      "code": "BRA",
+      "continent": "South America"
+    },
+    "winner": {
+      "name": "Uruguay",
+      "code": "URU"
+    },
+    "runnerUp": {
+      "name": "Brazil",
+      "code": "BRA"
+    },
+    "finalScore": "2-1",
+    "teams": 13,
+    "matches": 22,
+    "goals": 88,
+    "topScorer": {
+      "name": "Ademir",
+      "country": "Brazil",
+      "goals": 8
+    }
+  },
+  {
+    "year": 1938,
+    "name": "FIFA World Cup France 1938",
+    "hostCountry": {
+      "name": "France",
+      "code": "FRA",
+      "continent": "Europe"
+    },
+    "winner": {
+      "name": "Italy",
+      "code": "ITA"
+    },
+    "runnerUp": {
+      "name": "Hungary",
+      "code": "HUN"
+    },
+    "finalScore": "4-2",
+    "teams": 15,
+    "matches": 18,
+    "goals": 84,
+    "topScorer": {
+      "name": "Leônidas",
+      "country": "Brazil",
+      "goals": 7
+    }
+  },
+  {
+    "year": 1934,
+    "name": "FIFA World Cup Italy 1934",
+    "hostCountry": {
+      "name": "Italy",
+      "code": "ITA",
+      "continent": "Europe"
+    },
+    "winner": {
+      "name": "Italy",
+      "code": "ITA"
+    },
+    "runnerUp": {
+      "name": "Czechoslovakia",
+      "code": "TCH"
+    },
+    "finalScore": "2-1",
+    "teams": 16,
+    "matches": 17,
+    "goals": 70,
+    "topScorer": {
+      "name": "Oldřich Nejedlý",
+      "country": "Czechoslovakia",
+      "goals": 5
+    }
+  },
+  {
+    "year": 1930,
+    "name": "FIFA World Cup Uruguay 1930",
+    "hostCountry": {
+      "name": "Uruguay",
+      "code": "URU",
+      "continent": "South America"
+    },
+    "winner": {
+      "name": "Uruguay",
+      "code": "URU"
+    },
+    "runnerUp": {
+      "name": "Argentina",
+      "code": "ARG"
+    },
+    "finalScore": "4-2",
+    "teams": 13,
+    "matches": 18,
+    "goals": 70,
+    "topScorer": {
+      "name": "Guillermo Stábile",
+      "country": "Argentina",
+      "goals": 8
+    }
+  }
+]

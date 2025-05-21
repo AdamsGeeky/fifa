@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Pelé",
+    "country": "Brazil",
+    "position": "Forward",
+    "goals": 12,
+    "assists": 10,
+    "matches": 14,
+    "worldCups": ["1958", "1962", "1970"],
+    "image": "img/players/pele.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Diego Maradona",
+    "country": "Argentina",
+    "position": "Midfielder",
+    "goals": 8,
+    "assists": 8,
+    "matches": 21,
+    "worldCups": ["1982", "1986", "1990", "1994"],
+    "image": "img/players/maradona.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Miroslav Klose",
+    "country": "Germany",
+    "position": "Forward",
+    "goals": 16,
+    "assists": 3,
+    "matches": 24,
+    "worldCups": ["2002", "2006", "2010", "2014"],
+    "image": "img/players/klose.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ronaldo Nazário",
+    "country": "Brazil",
+    "position": "Forward",
+    "goals": 15,
+    "assists": 6,
+    "matches": 19,
+    "worldCups": ["1994", "1998", "2002", "2006"],
+    "image": "img/players/ronaldo.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Zinedine Zidane",
+    "country": "France",
+    "position": "Midfielder",
+    "goals": 5,
+    "assists": 12,
+    "matches": 12,
+    "worldCups": ["1998", "2002", "2006"],
+    "image": "img/players/zidane.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Lionel Messi",
+    "country": "Argentina",
+    "position": "Forward",
+    "goals": 13,
+    "assists": 8,
+    "matches": 26,
+    "worldCups": ["2006", "2010", "2014", "2018", "2022"],
+    "image": "img/players/messi.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Cristiano Ronaldo",
+    "country": "Portugal",
+    "position": "Forward",
+    "goals": 8,
+    "assists": 2,
+    "matches": 22,
+    "worldCups": ["2006", "2010", "2014", "2018", "2022"],
+    "image": "img/players/ronaldo-cristiano.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Franz Beckenbauer",
+    "country": "Germany",
+    "position": "Defender",
+    "goals": 5,
+    "assists": 6,
+    "matches": 18,
+    "worldCups": ["1966", "1970", "1974"],
+    "image": "img/players/beckenbauer.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Gerd Müller",
+    "country": "Germany",
+    "position": "Forward",
+    "goals": 14,
+    "assists": 3,
+    "matches": 13,
+    "worldCups": ["1970", "1974"],
+    "image": "img/players/muller.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Just Fontaine",
+    "country": "France",
+    "position": "Forward",
+    "goals": 13,
+    "assists": 1,
+    "matches": 6,
+    "worldCups": ["1958"],
+    "image": "img/players/fontaine.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Kylian Mbappé",
+    "country": "France",
+    "position": "Forward",
+    "goals": 12,
+    "assists": 6,
+    "matches": 14,
+    "worldCups": ["2018", "2022"],
+    "image": "img/players/mbappe.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Paolo Rossi",
+    "country": "Italy",
+    "position": "Forward",
+    "goals": 9,
+    "assists": 1,
+    "matches": 14,
+    "worldCups": ["1978", "1982", "1986"],
+    "image": "img/players/rossi.jpg"
+  }
+]

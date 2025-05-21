@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "name": "Brazil",
+    "code": "BRA",
+    "continent": "South America",
+    "titles": 5,
+    "titleYears": ["1958", "1962", "1970", "1994", "2002"],
+    "appearances": 22,
+    "bestResult": "Champions (5 times)",
+    "image": "img/teams/brazil.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Germany",
+    "code": "GER",
+    "continent": "Europe",
+    "titles": 4,
+    "titleYears": ["1954", "1974", "1990", "2014"],
+    "appearances": 20,
+    "bestResult": "Champions (4 times)",
+    "image": "img/teams/germany.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Italy",
+    "code": "ITA",
+    "continent": "Europe",
+    "titles": 4,
+    "titleYears": ["1934", "1938", "1982", "2006"],
+    "appearances": 18,
+    "bestResult": "Champions (4 times)",
+    "image": "img/teams/italy.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Argentina",
+    "code": "ARG",
+    "continent": "South America",
+    "titles": 3,
+    "titleYears": ["1978", "1986", "2022"],
+    "appearances": 18,
+    "bestResult": "Champions (3 times)",
+    "image": "img/teams/argentina.jpg"
+  },
+  {
+    "id": 5,
+    "name": "France",
+    "code": "FRA",
+    "continent": "Europe",
+    "titles": 2,
+    "titleYears": ["1998", "2018"],
+    "appearances": 16,
+    "bestResult": "Champions (2 times)",
+    "image": "img/teams/france.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Uruguay",
+    "code": "URU",
+    "continent": "South America",
+    "titles": 2,
+    "titleYears": ["1930", "1950"],
+    "appearances": 14,
+    "bestResult": "Champions (2 times)",
+    "image": "img/teams/uruguay.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Spain",
+    "code": "ESP",
+    "continent": "Europe",
+    "titles": 1,
+    "titleYears": ["2010"],
+    "appearances": 16,
+    "bestResult": "Champions (2010)",
+    "image": "img/teams/spain.jpg"
+  },
+  {
+    "id": 8,
+    "name": "England",
+    "code": "ENG",
+    "continent": "Europe",
+    "titles": 1,
+    "titleYears": ["1966"],
+    "appearances": 16,
+    "bestResult": "Champions (1966)",
+    "image": "img/teams/england.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Netherlands",
+    "code": "NED",
+    "continent": "Europe",
+    "titles": 0,
+    "titleYears": [],
+    "appearances": 11,
+    "bestResult": "Runners-up (1974, 1978, 2010)",
+    "image": "img/teams/netherlands.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Croatia",
+    "code": "CRO",
+    "continent": "Europe",
+    "titles": 0,
+    "titleYears": [],
+    "appearances": 6,
+    "bestResult": "Runners-up (2018)",
+    "image": "img/teams/croatia.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Mexico",
+    "code": "MEX",
+    "continent": "North America",
+    "titles": 0,
+    "titleYears": [],
+    "appearances": 17,
+    "bestResult": "Quarter-finals (1970, 1986)",
+    "image": "img/teams/mexico.jpg"
+  },
+  {
+    "id": 12,
+    "name": "United States",
+    "code": "USA",
+    "continent": "North America",
+    "titles": 0,
+    "titleYears": [],
+    "appearances": 11,
+    "bestResult": "Semi-finals (1930)",
+    "image": "img/teams/usa.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Japan",
+    "code": "JPN",
+    "continent": "Asia",
+    "titles": 0,
+    "titleYears": [],
+    "appearances": 7,
+    "bestResult": "Round of 16 (2002, 2010, 2018, 2022)",
+    "image": "img/teams/japan.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Senegal",
+    "code": "SEN",
+    "continent": "Africa",
+    "titles": 0,
+    "titleYears": [],
+    "appearances": 3,
+    "bestResult": "Quarter-finals (2002)",
+    "image": "img/teams/senegal.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Australia",
+    "code": "AUS",
+    "continent": "Oceania",
+    "titles": 0,
+    "titleYears": [],
+    "appearances": 6,
+    "bestResult": "Round of 16 (2006, 2022)",
+    "image": "img/teams/australia.jpg"
+  }
+]
