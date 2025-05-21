@@ -1,0 +1,185 @@
+/* History Page Specific Styling */
+
+/* Timeline Container */
+.timeline-container {
+    position: relative;
+    padding: 20px 0;
+}
+
+/* Timeline Line */
+.timeline-container::before {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: var(--fifa-blue);
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -3px;
+    border-radius: 10px;
+}
+
+/* Timeline Items */
+.timeline-item {
+    position: relative;
+    margin-bottom: 50px;
+}
+
+/* Timeline Content */
+.timeline-content {
+    position: relative;
+    width: 45%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.timeline-content:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* Left Side Content */
+.timeline-item:nth-child(odd) .timeline-content {
+    left: 0;
+}
+
+/* Right Side Content */
+.timeline-item:nth-child(even) .timeline-content {
+    left: 55%;
+}
+
+/* Timeline Dots */
+.timeline-item::after {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: var(--fifa-yellow);
+    border: 4px solid var(--fifa-blue);
+    border-radius: 50%;
+    top: 20px;
+    left: 50%;
+    margin-left: -10px;
+    z-index: 1;
+}
+
+/* Year Badge */
+.year-badge {
+    position: absolute;
+    top: -15px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: var(--fifa-blue);
+    color: white;
+    padding: 5px 15px;
+    border-radius: 20px;
+    font-weight: bold;
+    z-index: 2;
+}
+
+/* Host Country */
+.host-country {
+    display: inline-block;
+    margin-bottom: 10px;
+    color: var(--fifa-blue);
+    font-weight: 500;
+}
+
+/* Winner Section */
+.winner-section {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid #eee;
+}
+
+.winner-flag {
+    width: 40px;
+    height: 26px;
+    margin-right: 10px;
+    border: 1px solid #ddd;
+}
+
+.winner-name {
+    font-weight: 600;
+    color: var(--fifa-blue);
+}
+
+.score {
+    font-weight: 600;
+    margin-left: auto;
+    background-color: #f8f9fa;
+    padding: 3px 8px;
+    border-radius: 4px;
+}
+
+/* Tournament Stats */
+.tournament-stats {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 15px;
+    gap: 10px;
+}
+
+.stat-item {
+    flex: 1;
+    min-width: 100px;
+    text-align: center;
+    background-color: #f8f9fa;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.stat-label {
+    font-size: 0.8rem;
+    color: #666;
+    margin-bottom: 5px;
+}
+
+.stat-value {
+    font-weight: 600;
+    color: var(--fifa-blue);
+}
+
+/* Top Scorer */
+.top-scorer {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid #eee;
+}
+
+.scorer-name {
+    font-weight: 600;
+}
+
+/* Responsive Timeline */
+@media (max-width: 768px) {
+    .timeline-container::before {
+        left: 30px;
+    }
+    
+    .timeline-content {
+        width: calc(100% - 60px);
+        left: 60px !important;
+    }
+    
+    .timeline-item::after {
+        left: 30px;
+    }
+    
+    .year-badge {
+        left: 30px;
+        transform: translateX(-50%);
+    }
+}
+
+/* Chart Styling */
+.chart-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 10px;
+}

@@ -1,1 +1,184 @@
+/* FIFA Stats Hub Custom Styling */
 
+:root {
+    --fifa-blue: #0033A0;
+    --fifa-yellow: #FFCC00;
+    --fifa-green: #2E8B57;
+    --fifa-dark: #001F5C;
+    --fifa-light: #F5F5F5;
+}
+
+body {
+    font-family: 'Roboto', 'Segoe UI', sans-serif;
+    background-color: var(--fifa-light);
+}
+
+/* Navigation */
+.navbar {
+    background-color: var(--fifa-blue);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+    font-weight: 700;
+    color: white;
+}
+
+.nav-link {
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+    color: var(--fifa-yellow) !important;
+}
+
+.nav-link.active {
+    color: var(--fifa-yellow) !important;
+    border-bottom: 2px solid var(--fifa-yellow);
+}
+
+/* Hero Section */
+.hero-section {
+    background: linear-gradient(rgba(0, 51, 160, 0.9), rgba(0, 31, 92, 0.9)), url('../img/stadium-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+}
+
+/* Page Header */
+.page-header {
+    background: linear-gradient(rgba(0, 51, 160, 0.9), rgba(0, 31, 92, 0.9)), url('../img/header-bg.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+/* Buttons */
+.btn-primary {
+    background-color: var(--fifa-blue);
+    border-color: var(--fifa-blue);
+}
+
+.btn-primary:hover {
+    background-color: var(--fifa-dark);
+    border-color: var(--fifa-dark);
+}
+
+.btn-secondary {
+    background-color: var(--fifa-yellow);
+    border-color: var(--fifa-yellow);
+    color: var(--fifa-blue);
+}
+
+.btn-secondary:hover {
+    background-color: #e6b800;
+    border-color: #e6b800;
+    color: var(--fifa-blue);
+}
+
+.btn-outline-primary {
+    color: var(--fifa-blue);
+    border-color: var(--fifa-blue);
+}
+
+.btn-outline-primary:hover {
+    background-color: var(--fifa-blue);
+    color: white;
+}
+
+/* Feature Cards */
+.feature-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border: none;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.feature-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.feature-icon {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+}
+
+/* Player Cards */
+.player-card {
+    border: none;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.player-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.player-card .card-header {
+    background-color: var(--fifa-blue);
+    color: white;
+    font-weight: 600;
+    padding: 12px 16px;
+}
+
+.player-img-container {
+    height: 200px;
+    overflow: hidden;
+    background-color: #f8f9fa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.player-img {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+}
+
+.country-flag {
+    width: 24px;
+    height: 16px;
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
+.stat-badge {
+    background-color: var(--fifa-blue);
+    color: white;
+    font-weight: 500;
+}
+
+.stat-value {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--fifa-blue);
+}
+
+/* Footer */
+.footer {
+    background-color: var(--fifa-blue);
+    margin-top: 2rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .hero-section {
+        padding: 60px 0;
+    }
+    
+    .display-4 {
+        font-size: 2.5rem;
+    }
+    
+    .feature-icon {
+        width: 60px;
+        height: 60px;
+    }
+}
