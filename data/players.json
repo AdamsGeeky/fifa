@@ -8,7 +8,7 @@
     "assists": 10,
     "matches": 14,
     "worldCups": ["1958", "1962", "1970"],
-    "image": "img/players/pele.jpg"
+    "image": "img/pele.jpeg"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "assists": 8,
     "matches": 21,
     "worldCups": ["1982", "1986", "1990", "1994"],
-    "image": "img/players/maradona.jpg"
+    "image": "img/DiegoMaradona.jpeg"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "assists": 3,
     "matches": 24,
     "worldCups": ["2002", "2006", "2010", "2014"],
-    "image": "img/players/klose.jpg"
+    "image": "img/MiroslavKlose.jpeg"
   },
   {
     "id": 4,
